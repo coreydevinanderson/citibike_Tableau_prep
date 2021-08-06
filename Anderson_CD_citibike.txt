@@ -1,0 +1,9 @@
+Please see the story for a detailed presentation of the data.
+
+Summary of unexpected phenomenon:
+
+1) There does not appear to be an 8 AM morning rush in bike rides in June 2020. It would be interesting to look at more data to determine if this pattern could have been associated with a change in bike usage patterns during COVID-19.
+
+2) People are not entering their birth years accurately (or honestly). There was an over-abundance of riders over the age of 100 years!
+
+3) There are some stations that are barely used, especially in the northeastern edge of the bike region (in the Bronx).
